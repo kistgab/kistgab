@@ -5,5 +5,5 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
-
