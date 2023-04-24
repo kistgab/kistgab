@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer<br>📚 Currently studying Mobile Development<br>📚 Studying Front-End Development<br>🏆 “We can't solve problems by using the same kind of thinking we used when we created them.” — Albert Einstein
+💻 Software Engineer<br>📚 Currently studying Computer Science<br>📚 Studying Full-Stack Development<br>🏆 “We can't solve problems by using the same kind of thinking we used when we created them.” — Albert Einstein
 
 
 ## 🌐 Socials:
